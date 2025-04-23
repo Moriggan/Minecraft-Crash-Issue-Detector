@@ -1,7 +1,7 @@
 # 🛠️ Minecraft Crash Issue Detector
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
-![License](https://img.shields.io/github/license/Moriggan/minecraft-crash-detector)
+![License](https://img.shields.io/github/license/Moriggan/Minecraft-Crash-Issue-Detector) 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)
 <!-- You can update these badge URLs to match your actual GitHub repo -->
 
