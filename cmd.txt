@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=mod_analyzer.ico crash_analyzer.py
